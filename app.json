@@ -1,6 +1,6 @@
 {
     
-    "name": "Atlas-MD",
+    "name": "Xhriss-MD",
     "description": "The Future of WhatsApp bots.",
     "keywords": [
         "bot",
@@ -16,8 +16,8 @@
         "md-bot"
     ],
     "website": "https://github.com/FantoX001/Atlas-MD#readme",
-    "repository": "https://github.com/FantoX001/Atlas-MD.git",
-    "logo": "https://i.imgur.com/MClOeqe.jpeg",
+    "repository": "https://github.com/videoyt24/Atlas-MD.git",
+    "logo": "https://iili.io/J1aDGON.md.jpg",
     "success_url": "/",
     "env": {
         "PREFIX": {
